@@ -1,83 +1,148 @@
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="40" height="40" /> AI & ML Engineer | Data Science Specialist
 
-# 🧠 AI & Machine Learning Engineer  
-### *Data Science | Deep Learning | MLOps*
+## ✨ **Transforming Raw Data into Intelligent Insights**
+### *Machine Learning • Deep Learning • MLOps • NLP*
 
-**Building intelligent systems that transform data into actionable insights through cutting-edge AI solutions**
+<!-- Animated gradient border container -->
+<div style="border: 3px solid transparent; border-radius: 20px; background: linear-gradient(white, white) padding-box, linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c) border-box; padding: 20px; margin: 20px 0;">
+  
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-<!-- Dynamic Badges Section -->
-<p id="dynamic-badges">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  <img src="https://img.shields.io/badge/📧_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/📊_Projects-10+-blue?style=for-the-badge" alt="Projects">
-  <img src="https://img.shields.io/badge/🚀_Active-Now-brightgreen?style=for-the-badge" alt="Status">
-</p>
+</div>
+
+<!-- Stats Cards -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 25px 0;">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gradient&hide_border=true&bg_color=30,0d1117,161b22&title_color=fff&text_color=9f9f9f&icon_color=667eea&ring_color=764ba2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gradient&hide_border=true&bg_color=30,161b22,0d1117&title_color=fff&text_color=9f9f9f)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gradient&hide_border=true&background=linear-gradient(135deg%2C%230d1117%2C%23161b22)&ring=667eea&fire=667eea&currStreakLabel=667eea)
+
+</div>
 
 </div>
 
 ---
 
-## 🎯 **Professional Expertise**
+## 🎯 **Core Competencies**
 
-| **Domain** | **Technologies & Focus Areas** | **Experience** |
-|------------|--------------------------------|----------------|
-| **🤖 Machine Learning** | Predictive Modeling, Ensemble Methods, Feature Engineering, Model Optimization | <span id="ml-experience">3+ years</span> |
-| **🧠 Deep Learning** | Neural Networks, Computer Vision, NLP, Transformer Architectures, GANs | <span id="dl-experience">2+ years</span> |
-| **📊 Data Analytics** | Statistical Analysis, A/B Testing, Business Intelligence, Dashboarding | <span id="da-experience">4+ years</span> |
-| **⚙️ MLOps & Automation** | CI/CD Pipelines, Model Monitoring, Containerization, Scalable Deployment | <span id="mlops-experience">2+ years</span> |
-| **🔧 Software Engineering** | API Development, Microservices, System Design, Performance Optimization | <span id="se-experience">5+ years</span> |
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 15px; border: 1px solid rgba(102, 126, 234, 0.2);">
+  <h3 style="color: #667eea; margin-top: 0;">🤖 Machine Learning</h3>
+  <ul style="text-align: left; padding-left: 20px;">
+    <li>Predictive Modeling & Analytics</li>
+    <li>Feature Engineering & Selection</li>
+    <li>Ensemble Methods & Hyperparameter Tuning</li>
+    <li>Model Optimization & Evaluation</li>
+  </ul>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(240, 147, 251, 0.1) 0%, rgba(245, 87, 108, 0.1) 100%); padding: 20px; border-radius: 15px; border: 1px solid rgba(240, 147, 251, 0.2);">
+  <h3 style="color: #f5576c; margin-top: 0;">🧠 Deep Learning</h3>
+  <ul style="text-align: left; padding-left: 20px;">
+    <li>Neural Networks & CNN/RNN</li>
+    <li>Transformers & LLMs</li>
+    <li>Computer Vision & NLP</li>
+    <li>Generative AI & GANs</li>
+  </ul>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(80, 201, 195, 0.1) 0%, rgba(150, 92, 229, 0.1) 100%); padding: 20px; border-radius: 15px; border: 1px solid rgba(80, 201, 195, 0.2);">
+  <h3 style="color: #50c9c3; margin-top: 0;">⚙️ MLOps & Engineering</h3>
+  <ul style="text-align: left; padding-left: 20px;">
+    <li>CI/CD for Machine Learning</li>
+    <li>Model Deployment & Serving</li>
+    <li>Monitoring & Drift Detection</li>
+    <li>Containerization & Orchestration</li>
+  </ul>
+</div>
+
+</div>
 
 ---
 
-## 💻 **Technology Stack**
+## 🛠️ **Technology Stack**
 
-### **Core Languages**
-<div align="center" id="languages-badges">
-<!-- Dynamic badges will be injected here -->
+<div align="center">
+
+### **Programming & Core ML**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras" alt="Core ML Stack" />
+  <img src="https://skillicons.dev/icons?i=scikit,fastapi,flask,django" alt="Backend Stack" />
 </div>
 
-### **Machine Learning & AI Framework**
-<div align="center" id="ml-badges">
-<!-- Dynamic badges will be injected here -->
+### **Data & Visualization**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mongodb" alt="Data Stack" />
+  <img src="https://skillicons.dev/icons?i=redis,kafka,spark,airflow" alt="Data Engineering" />
 </div>
 
-### **Data Processing & Visualization**
-<div align="center" id="data-badges">
-<!-- Dynamic badges will be injected here -->
+### **Cloud & DevOps**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" alt="Cloud Stack" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,githubactions,grafana,prometheus" alt="DevOps Stack" />
 </div>
 
-### **NLP & LLM Technologies**
-<div align="center" id="nlp-badges">
-<!-- Dynamic badges will be injected here -->
+### **NLP & AI Tools**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=huggingface,openai,langchain,pinecone" alt="AI Tools" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Weights%20&%20Biases-FFBE00?logo=weightsandbiases&logoColor=black" alt="W&B" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
 </div>
 
-### **Backend & API Development**
-<div align="center" id="backend-badges">
-<!-- Dynamic badges will be injected here -->
-</div>
-
-### **MLOps & Infrastructure**
-<div align="center" id="mlops-badges">
-<!-- Dynamic badges will be injected here -->
-</div>
-
-### **Databases & Storage**
-<div align="center" id="db-badges">
-<!-- Dynamic badges will be injected here -->
-</div>
-
-### **Cloud Platforms**
-<div align="center" id="cloud-badges">
-<!-- Dynamic badges will be injected here -->
 </div>
 
 ---
 
 ## 🏆 **Featured Projects**
 
-<div id="projects-container">
-<!-- Projects will be dynamically loaded here -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%); padding: 25px; border-radius: 20px; border: 1px solid rgba(102, 126, 234, 0.1); backdrop-filter: blur(10px); transition: transform 0.3s ease;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #667eea;">📄 Intelligent Document AI</h3>
+    <span style="background: rgba(102, 126, 234, 0.2); padding: 5px 15px; border-radius: 20px; font-size: 0.8em; color: #667eea;">Transformers</span>
+  </div>
+  <p>Multi-modal AI system for automated document processing, classification, and information extraction using vision-language models.</p>
+  <div style="display: flex; gap: 10px; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25">
+  </div>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(240, 147, 251, 0.05) 0%, rgba(245, 87, 108, 0.05) 100%); padding: 25px; border-radius: 20px; border: 1px solid rgba(240, 147, 251, 0.1); backdrop-filter: blur(10px); transition: transform 0.3s ease;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #f5576c;">🛡️ Real-time Fraud Detection</h3>
+    <span style="background: rgba(245, 87, 108, 0.2); padding: 5px 15px; border-radius: 20px; font-size: 0.8em; color: #f5576c;">XGBoost</span>
+  </div>
+  <p>Real-time anomaly detection system processing 10K+ transactions/sec with 99.5% accuracy and <50ms inference latency.</p>
+  <div style="display: flex; gap: 10px; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/XGBoost-3776AB?logo=xgboost&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="25">
+  </div>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(80, 201, 195, 0.05) 0%, rgba(150, 92, 229, 0.05) 100%); padding: 25px; border-radius: 20px; border: 1px solid rgba(80, 201, 195, 0.1); backdrop-filter: blur(10px); transition: transform 0.3s ease;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #50c9c3;">🤖 Customer Intelligence Platform</h3>
+    <span style="background: rgba(80, 201, 195, 0.2); padding: 5px 15px; border-radius: 20px; font-size: 0.8em; color: #50c9c3;">RAG System</span>
+  </div>
+  <p>LLM-powered platform for personalized customer insights using Retrieval-Augmented Generation and vector embeddings.</p>
+  <div style="display: flex; gap: 10px; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/LangChain-FF6B6B?logo=chainlink&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="25">
+  </div>
+</div>
+
 </div>
 
 ---
@@ -85,29 +150,29 @@
 ## 📈 **Performance Metrics**
 
 <div align="center">
-  <div id="metrics-chart">
-    <!-- Metrics visualization will be injected here -->
-  </div>
-  
-  <div id="live-metrics">
-    <p><strong>⚡ Real-time Metrics:</strong> <span id="metric-display">Loading...</span></p>
-  </div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
+
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 15px; color: white;">
+  <h3 style="margin: 0; font-size: 2.5em;">94.5%</h3>
+  <p style="margin: 5px 0 0; opacity: 0.9;">Model Accuracy</p>
 </div>
 
----
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f093fb, #f5576c); border-radius: 15px; color: white;">
+  <h3 style="margin: 0; font-size: 2.5em;">85%</h3>
+  <p style="margin: 5px 0 0; opacity: 0.9;">Latency Reduction</p>
+</div>
 
-## 📊 **GitHub Analytics**
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #50c9c3, #96a8e1); border-radius: 15px; color: white;">
+  <h3 style="margin: 0; font-size: 2.5em;">12x</h3>
+  <p style="margin: 5px 0 0; opacity: 0.9;">Processing Speed</p>
+</div>
 
-<div align="center">
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea, #f093fb); border-radius: 15px; color: white;">
+  <h3 style="margin: 0; font-size: 2.5em;">50+</h3>
+  <p style="margin: 5px 0 0; opacity: 0.9;">Models Deployed</p>
+</div>
 
-### **Contribution Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=${process.env.GITHUB_USERNAME || 'YOUR_USERNAME'}&theme=react-dark&hide_border=true&area=true)
-
-### **Development Statistics**
-<div id="github-stats-container">
-  <!-- GitHub stats will be dynamically loaded -->
-  <img src="https://github-readme-stats.vercel.app/api?username=${process.env.GITHUB_USERNAME || 'YOUR_USERNAME'}&show_icons=true&theme=dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=${process.env.GITHUB_USERNAME || 'YOUR_USERNAME'}&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak">
 </div>
 
 </div>
@@ -116,331 +181,165 @@
 
 ## 🎓 **Certifications & Education**
 
-<div id="certifications-container">
-<!-- Certifications will be dynamically loaded here -->
-</div>
-
----
-
-## 📝 **Latest Technical Writing**
-
-<div id="articles-container">
-<!-- Articles will be dynamically loaded here -->
-</div>
-
----
-
-## 🚀 **Current Focus**
-
 <div align="center">
-  <div id="current-focus">
-    <!-- Current focus will be dynamically updated -->
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
+
+<div style="padding: 15px; background: rgba(255, 255, 255, 0.05); border-radius: 15px; border-left: 4px solid #667eea;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white;">AWS</div>
+    <div>
+      <strong>AWS Certified ML Specialty</strong>
+      <p style="margin: 5px 0 0; opacity: 0.8; font-size: 0.9em;">Machine Learning Engineering</p>
+    </div>
   </div>
 </div>
 
----
+<div style="padding: 15px; background: rgba(255, 255, 255, 0.05); border-radius: 15px; border-left: 4px solid #f5576c;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #f5576c, #f093fb); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white;">GCP</div>
+    <div>
+      <strong>Google Data Engineer</strong>
+      <p style="margin: 5px 0 0; opacity: 0.8; font-size: 0.9em;">Data Engineering</p>
+    </div>
+  </div>
+</div>
 
-## 📫 **Connect With Me**
+<div style="padding: 15px; background: rgba(255, 255, 255, 0.05); border-radius: 15px; border-left: 4px solid #50c9c3;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #50c9c3, #96a8e1); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white;">DL</div>
+    <div>
+      <strong>Deep Learning Specialization</strong>
+      <p style="margin: 5px 0 0; opacity: 0.8; font-size: 0.9em;">DeepLearning.AI</p>
+    </div>
+  </div>
+</div>
 
-<div align="center" id="connect-buttons">
-<!-- Connect buttons will be injected here -->
+</div>
+
 </div>
 
 ---
+
+## 📝 **Latest Publications**
 
 <div align="center">
 
-### **"Transforming data into intelligence, intelligence into impact."**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
-<div id="footer-stats">
-  <!-- Last updated timestamp -->
-  <p>🔄 Last updated: <span id="last-updated">Loading...</span></p>
+<div style="padding: 20px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 15px;">
+  <h4 style="margin-top: 0; color: #667eea;">🎯 Production ML Pipelines</h4>
+  <p>Best practices for building scalable ML pipelines with MLOps principles.</p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="background: rgba(102, 126, 234, 0.2); padding: 3px 10px; border-radius: 12px; font-size: 0.8em;">Medium</span>
+    <span style="font-size: 0.9em; opacity: 0.7;">2 days ago</span>
+  </div>
+</div>
+
+<div style="padding: 20px; background: linear-gradient(135deg, rgba(240, 147, 251, 0.1), rgba(245, 87, 108, 0.1)); border-radius: 15px;">
+  <h4 style="margin-top: 0; color: #f5576c;">🚀 LLM Deployment Guide</h4>
+  <p>Complete guide to deploying Large Language Models in production environments.</p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="background: rgba(245, 87, 108, 0.2); padding: 3px 10px; border-radius: 12px; font-size: 0.8em;">Towards DS</span>
+    <span style="font-size: 0.9em; opacity: 0.7;">1 week ago</span>
+  </div>
+</div>
+
+<div style="padding: 20px; background: linear-gradient(135deg, rgba(80, 201, 195, 0.1), rgba(150, 92, 229, 0.1)); border-radius: 15px;">
+  <h4 style="margin-top: 0; color: #50c9c3;">🔬 Vector Databases</h4>
+  <p>Comparative analysis of Pinecone, Weaviate, and Qdrant for AI applications.</p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="background: rgba(80, 201, 195, 0.2); padding: 3px 10px; border-radius: 12px; font-size: 0.8em;">GitHub</span>
+    <span style="font-size: 0.9em; opacity: 0.7;">3 weeks ago</span>
+  </div>
 </div>
 
 </div>
 
-<!-- JavaScript for Dynamic Content -->
-<script>
-// Configuration - Update these values
-const config = {
-  githubUsername: 'yourusername',
-  linkedinUsername: 'yourprofile',
-  twitterUsername: 'yourhandle',
-  email: 'your.email@example.com',
-  portfolioUrl: 'https://yourportfolio.com'
-};
+</div>
 
-// Technology stacks with icons
-const technologies = {
-  languages: [
-    { name: 'Python', color: '3776AB', logo: 'python' },
-    { name: 'SQL', color: '4479A1', logo: 'postgresql' },
-    { name: 'TypeScript', color: '3178C6', logo: 'typescript' },
-    { name: 'R', color: '276DC3', logo: 'r' }
-  ],
-  ml: [
-    { name: 'scikit--learn', color: 'F7931E', logo: 'scikit-learn' },
-    { name: 'TensorFlow', color: 'FF6F00', logo: 'tensorflow' },
-    { name: 'PyTorch', color: 'EE4C2C', logo: 'pytorch' },
-    { name: 'Keras', color: 'D00000', logo: 'keras' },
-    { name: 'XGBoost', color: '3776AB', logo: 'xgboost' }
-  ],
-  data: [
-    { name: 'pandas', color: '150458', logo: 'pandas' },
-    { name: 'NumPy', color: '013243', logo: 'numpy' },
-    { name: 'Plotly', color: '3F4F75', logo: 'plotly' },
-    { name: 'Streamlit', color: 'FF4B4B', logo: 'streamlit' }
-  ],
-  nlp: [
-    { name: 'HuggingFace', color: 'FFD21E', logo: 'huggingface' },
-    { name: 'OpenAI', color: '412991', logo: 'openai' },
-    { name: 'spaCy', color: '09A3D5', logo: 'spacy' },
-    { name: 'LangChain', color: 'FF6B6B', logo: 'chainlink' }
-  ],
-  backend: [
-    { name: 'FastAPI', color: '009688', logo: 'fastapi' },
-    { name: 'Flask', color: '000000', logo: 'flask' },
-    { name: 'Django', color: '092E20', logo: 'django' },
-    { name: 'GraphQL', color: 'E10098', logo: 'graphql' }
-  ],
-  mlops: [
-    { name: 'Docker', color: '2496ED', logo: 'docker' },
-    { name: 'Kubernetes', color: '326CE5', logo: 'kubernetes' },
-    { name: 'Apache Airflow', color: '017CEE', logo: 'apacheairflow' },
-    { name: 'MLflow', color: '0194E2', logo: 'mlflow' }
-  ],
-  databases: [
-    { name: 'PostgreSQL', color: '4169E1', logo: 'postgresql' },
-    { name: 'MongoDB', color: '47A248', logo: 'mongodb' },
-    { name: 'Redis', color: 'DC382D', logo: 'redis' },
-    { name: 'Elasticsearch', color: '005571', logo: 'elasticsearch' }
-  ],
-  cloud: [
-    { name: 'AWS', color: '232F3E', logo: 'amazonaws' },
-    { name: 'Google Cloud', color: '4285F4', logo: 'googlecloud' },
-    { name: 'Azure', color: '0078D4', logo: 'microsoftazure' },
-    { name: 'Databricks', color: 'FF3621', logo: 'databricks' }
-  ]
-};
+---
 
-// Generate badge HTML
-function generateBadge(tech) {
-  return `<img src="https://img.shields.io/badge/${tech.name}-${tech.color}?style=for-the-badge&logo=${tech.logo}&logoColor=white" alt="${tech.name}">`;
-}
+## 🤝 **Let's Connect**
 
-// Initialize all technology badges
-function initTechnologies() {
-  Object.keys(technologies).forEach(category => {
-    const container = document.getElementById(`${category}-badges`);
-    if (container) {
-      container.innerHTML = technologies[category].map(generateBadge).join('\n');
+<div align="center">
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+
+<a href="https://linkedin.com/in/yourprofile" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; gap: 10px; padding: 15px 25px; background: linear-gradient(135deg, #0077B5, #00A0DC); border-radius: 25px; color: white; transition: transform 0.3s;">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+    <span>LinkedIn</span>
+  </div>
+</a>
+
+<a href="mailto:your.email@example.com" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; gap: 10px; padding: 15px 25px; background: linear-gradient(135deg, #D14836, #EA4335); border-radius: 25px; color: white; transition: transform 0.3s;">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+    <span>Email Me</span>
+  </div>
+</a>
+
+<a href="https://calendly.com/yourusername" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; gap: 10px; padding: 15px 25px; background: linear-gradient(135deg, #006B75, #00A3B8); border-radius: 25px; color: white; transition: transform 0.3s;">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
+    <span>Schedule Call</span>
+  </div>
+</a>
+
+</div>
+
+<div style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.05), rgba(118, 75, 162, 0.05)); border-radius: 15px; max-width: 600px; margin-left: auto; margin-right: auto;">
+  <p style="margin: 0; font-style: italic; color: #667eea;">"Data is the new oil, but AI is the refinery that turns it into rocket fuel."</p>
+</div>
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
+
+<sub>✨ Crafted with precision for the modern AI engineer • Last updated: December 2024</sub>
+
+</div>
+
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    line-height: 1.6;
+    color: #e1e1e1;
+    background: #0d1117;
+  }
+  
+  a {
+    color: #667eea;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #764ba2;
+  }
+  
+  h1, h2, h3, h4 {
+    color: #ffffff;
+  }
+  
+  div[style*="transition: transform"]:hover {
+    transform: translateY(-5px) !important;
+  }
+  
+  a div[style*="transition: transform"]:hover {
+    transform: translateY(-3px) !important;
+  }
+  
+  @media (max-width: 768px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: 1fr !important;
     }
-  });
-}
-
-// Projects data
-const projects = [
-  {
-    title: "Intelligent Document Processing",
-    url: "https://github.com/yourusername/doc-ai",
-    tech: ["Transformers", "FastAPI", "OpenAI"],
-    description: "Multi-modal AI system for document classification, OCR, and information extraction"
-  },
-  {
-    title: "Real-time Fraud Detection",
-    url: "https://github.com/yourusername/fraud-detection",
-    tech: ["XGBoost", "Streamlit", "Kafka"],
-    description: "Real-time anomaly detection system processing 10K+ transactions/second"
-  },
-  {
-    title: "Customer Intelligence Platform",
-    url: "https://github.com/yourusername/customer-ai",
-    tech: ["LangChain", "Pinecone", "Docker"],
-    description: "RAG-based system for personalized customer insights and recommendations"
   }
-];
-
-// Initialize projects
-function initProjects() {
-  const container = document.getElementById('projects-container');
-  if (container) {
-    container.innerHTML = projects.map(project => `
-      <div class="project-card">
-        <h3>📁 <a href="${project.url}" target="_blank">${project.title}</a></h3>
-        <p>${project.tech.map(t => `<span class="tech-tag">${t}</span>`).join(' ')}</p>
-        <p>${project.description}</p>
-      </div>
-    `).join('');
-  }
-}
-
-// Initialize certifications
-function initCertifications() {
-  const certifications = [
-    { name: "AWS Certified Machine Learning", issuer: "AWS", color: "232F3E" },
-    { name: "Google Professional Data Engineer", issuer: "Google", color: "4285F4" },
-    { name: "Deep Learning Specialization", issuer: "DeepLearning.AI", color: "FF6B00" }
-  ];
-  
-  const container = document.getElementById('certifications-container');
-  if (container) {
-    container.innerHTML = `
-      <div align="center">
-        ${certifications.map(cert => `
-          <img src="https://img.shields.io/badge/${cert.name}-${cert.color}?style=flat-square&logo=${cert.issuer.toLowerCase()}&logoColor=white" alt="${cert.name}" style="margin: 5px;">
-        `).join('')}
-      </div>
-    `;
-  }
-}
-
-// Initialize articles
-function initArticles() {
-  const articles = [
-    { title: "Building Production ML Pipelines", url: "#", platform: "Medium" },
-    { title: "LLM Deployment Best Practices", url: "#", platform: "Towards DS" },
-    { title: "Real-time Data Processing", url: "#", platform: "Medium" }
-  ];
-  
-  const container = document.getElementById('articles-container');
-  if (container) {
-    container.innerHTML = `
-      <div align="center">
-        ${articles.map(article => `
-          <div style="margin: 10px; display: inline-block;">
-            <a href="${article.url}" target="_blank">📝 ${article.title}</a>
-            <br><small>${article.platform}</small>
-          </div>
-        `).join('')}
-      </div>
-    `;
-  }
-}
-
-// Initialize current focus
-function initCurrentFocus() {
-  const focusAreas = [
-    "Building multi-modal LLM applications",
-    "Scalable model deployment patterns",
-    "Streaming data pipelines with Kafka/Flink",
-    "Responsible AI and model governance"
-  ];
-  
-  const container = document.getElementById('current-focus');
-  if (container) {
-    container.innerHTML = `
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-        ${focusAreas.map(focus => `
-          <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 20px; color: white;">
-            🎯 ${focus}
-          </div>
-        `).join('')}
-      </div>
-    `;
-  }
-}
-
-// Initialize connect buttons
-function initConnectButtons() {
-  const container = document.getElementById('connect-buttons');
-  if (container) {
-    container.innerHTML = `
-      <a href="https://linkedin.com/in/${config.linkedinUsername}" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="mailto:${config.email}">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-      <a href="https://twitter.com/${config.twitterUsername}" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-Follow_AI_Tech-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-      </a>
-      <a href="${config.portfolioUrl}" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-      </a>
-    `;
-  }
-}
-
-// Update last updated timestamp
-function updateTimestamp() {
-  const element = document.getElementById('last-updated');
-  if (element) {
-    const now = new Date();
-    element.textContent = now.toLocaleString();
-  }
-}
-
-// Simulate live metrics updates
-function updateLiveMetrics() {
-  const metrics = [
-    "Model Accuracy: 94.2%",
-    "Inference Latency: 45ms",
-    "Data Throughput: 1.2GB/s",
-    "Active Models: 12",
-    "Uptime: 99.8%"
-  ];
-  
-  const element = document.getElementById('metric-display');
-  if (element) {
-    let index = 0;
-    setInterval(() => {
-      element.textContent = metrics[index];
-      index = (index + 1) % metrics.length;
-    }, 3000);
-  }
-}
-
-// Initialize everything when page loads
-document.addEventListener('DOMContentLoaded', function() {
-  initTechnologies();
-  initProjects();
-  initCertifications();
-  initArticles();
-  initCurrentFocus();
-  initConnectButtons();
-  updateTimestamp();
-  updateLiveMetrics();
-  
-  // Update timestamp every minute
-  setInterval(updateTimestamp, 60000);
-});
-
-// Add some basic CSS for styling
-const style = document.createElement('style');
-style.textContent = `
-  .project-card {
-    background: linear-gradient(135deg, #667eea0d 0%, #764ba20d 100%);
-    border-radius: 10px;
-    padding: 20px;
-    margin: 15px 0;
-    border-left: 4px solid #667eea;
-  }
-  
-  .tech-tag {
-    background: #667eea;
-    color: white;
-    padding: 3px 10px;
-    border-radius: 15px;
-    font-size: 12px;
-    margin: 0 5px;
-    display: inline-block;
-  }
-  
-  #current-focus div {
-    transition: transform 0.3s ease;
-  }
-  
-  #current-focus div:hover {
-    transform: translateY(-5px);
-  }
-`;
-document.head.appendChild(style);
-</script>
-
-<!-- Fallback for GitHub README (GitHub doesn't execute JS) -->
-<noscript>
-  <div align="center">
-    <p>⚠️ JavaScript is disabled. Some dynamic features may not be visible.</p>
-    <p>Please enable JavaScript for the full interactive experience.</p>
-  </div>
-</noscript>
+</style>
